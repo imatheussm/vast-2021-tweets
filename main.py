@@ -35,7 +35,11 @@ for index, data_frame in enumerate(data_frames):
 
         message = data_frame.loc[row, "message"]
         document = nlp(message)
-        tokens = [stemmer.stem(token.text) for token in document if token.text not in stop_words]
+        tokens = [
+            stemmer.stem(token.text) for token in document
+            if token.text not in stop_words  # Remove stop words
+            and token.is_punct is False      # Remove punctuation
+        ]
 
         data_frame.loc[row, "message"] = " ".join(tokens)
 
