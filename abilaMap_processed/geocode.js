@@ -58,21 +58,19 @@ Promise.all([
 ]).then(function(data) {
     let abilaMap = data[0]
     let reports = data[1]
-
-    console.log(abilaMap)
-    console.log(reports)
     let coords = []
-    console.log(reports)
+    
     for(let { location } of reports)
-    if (location != ""){
-        if (!coords[location]) {
-            coords[location] = { 
-            location, 
-            coords: geocode(location, abilaMap) 
-        }  
-    }
-    }
+        if (location != ""){
+            if (!coords[location]) {
+                coords[location] = { 
+                location, 
+                coords: geocode(location, abilaMap) 
+                }  
+            }
+        }
+    
     let result = Object.values(coords)
-    console.log("ai oh:", JSON.stringify(result)
-    )
+    
+    console.log(JSON.stringify(result)) // This result was copied to a json file.
 });
