@@ -1,192 +1,192 @@
-,message,location,time
-0,keep the peac crowd control abila citi park,"['Egeou St', 'Parla St']",2014-01-23T17:00:00
-1,traffic stop,"['N. Els St', 'N. Polvo St']",2014-01-23T17:02:10
-2,park check,['Sannan Pky'],2014-01-23T17:05:13
-3,disturb nois,['N. Barwyn St'],2014-01-23T17:11:02
-4,alarm secur no crime,['N. Blant St'],2014-01-23T17:11:53
-5,misdemeanor assault in progress,"['N. Dentro St', 'N. Omirou St']",2014-01-23T17:11:59
-6,subject stop,['N. Barwyn St'],2014-01-23T17:14:47
-7,suspici subject circumst in progress,['Zefirou Ave'],2014-01-23T17:15:01
-8,traffic stop,['N. Pilau St'],2014-01-23T17:15:13
-9,incomplet call for polic,['nan'],2014-01-23T17:16:00
-10,busi check,['N. Utanfor St'],2014-01-23T17:17:25
-11,vehicl accid report,"['N. Spetson St', 'N. Arkadou St']",2014-01-23T17:18:00
-12,check on hazard,['N. Arbete St'],2014-01-23T17:18:33
-13,disturb nois,['N. Gounaraki St'],2014-01-23T17:19:00
-14,incomplet call for polic,['nan'],2014-01-23T17:21:00
-15,vehicl accid report,['N. Parla St'],2014-01-23T17:22:00
-16,traffic stop,['N. Androutsou St'],2014-01-23T17:22:47
-17,alarm secur no crime,['N. Blant St'],2014-01-23T17:22:51
-18,subject stop,['N. Bairn St'],2014-01-23T17:23:22
-19,misdemeanor assault in progress,"['N. Gounaraki St', 'N. Bairn Stt']",2014-01-23T17:25:45
-20,traffic stop,"['Rist Way', 'Niovis St']",2014-01-23T17:25:51
-21,incomplet call for polic,['nan'],2014-01-23T17:26:42
-22,suspici subject circumst in progress,['N. Androutsou St'],2014-01-23T17:26:58
-23,subject stop,['N. Tzavella St'],2014-01-23T17:27:00
-24,disturb nois,['N. Gounaraki St'],2014-01-23T17:27:45
-25,crowd control street closur,['N. Parla St from Egeou Ave North to N. Alm St'],2014-01-23T17:28:02
-26,suspici subject circumst in progress,"['N. Pilau St', 'N. Carnero St']",2014-01-23T17:29:00
-27,alarm secur no crime,['N. Avionos St'],2014-01-23T17:32:00
-28,vehicl accid report,"['N. Taxiarchon St', 'N. Arkadou St']",2014-01-23T17:34:00
-29,traffic stop,"['N. Artakis St', 'N. Evzonon St']",2014-01-23T17:35:01
-30,park check,['N. Arkadiou St'],2014-01-23T17:36:11
-31,busi check,"['S. Achilleos St', 'S. Utanfor St']",2014-01-23T17:38:02
-32,incomplet call for polic,['nan'],2014-01-23T17:38:14
-33,traffic stop,['Sannan Pky'],2014-01-23T17:39:00
-34,subject stop,"['N. Berlau St', 'N. Taxiarchon Ave']",2014-01-23T17:40:56
-35,disturb nois,['N. Arkadou St'],2014-01-23T17:41:00
-36,vehicl accid report,"['Vissaraki St', 'Rist Way']",2014-01-23T17:42:00
-37,traffic stop,"['N. Alexandrias St', 'N. Evzonon St']",2014-01-23T17:42:31
-38,misdemeanor assault in progress,['N. Artakis St'],2014-01-23T17:43:09
-39,suspici subject circumst in progress,['N. Utanfor St'],2014-01-23T17:44:00
-40,alarm secur no crime,['N. Averof St'],2014-01-23T17:46:11
-41,vehicl accid report,"['N. Pilau St', 'N. Barwyn St']",2014-01-23T17:49:00
-42,traffic stop,"['N. Taxiarchon Ave', 'N. Alm St']",2014-01-23T17:50:00
-43,subject stop,"['N. Carnero St', 'N. Omirou St']",2014-01-23T17:51:23
-44,busi check,"['N. Agisilaou St', 'N. Lumen St']",2014-01-23T17:52:32
-45,incomplet call for polic,['nan'],2014-01-23T17:53:59
-46,alarm secur no crime,['N. Mikonou St'],2014-01-23T18:04:01
-47,disturb nois,['Vatopediou Rd'],2014-01-23T18:04:47
-48,subject stop,['N. Pilau St'],2014-01-23T18:05:15
-49,traffic stop,['N. Taxiarchon Ave'],2014-01-23T18:06:15
-50,park check,['N. Taxiarchon Ave'],2014-01-23T18:07:52
-51,misdemeanor assault in progress,['N. Averof St'],2014-01-23T18:09:22
-52,vandal report,['N. Desafio St'],2014-01-23T18:10:02
-53,traffic stop,"['Rist Way', 'Exadakitiou Way']",2014-01-23T18:13:49
-54,busi check,['Rist Way'],2014-01-23T18:14:13
-55,incomplet call for polic,['nan'],2014-01-23T18:15:33
-56,subject stop,"['N. Pilau St', 'N. Aveny St']",2014-01-23T18:16:34
-57,suspici subject circumst in progress,['S. Maskin St'],2014-01-23T18:17:55
-58,check on hazard,['N. Scarkeme St'],2014-01-23T18:20:00
-59,traffic stop,['N. Bilar St'],2014-01-23T18:21:44
-60,alarm secur no crime,['N. Delfon St'],2014-01-23T18:25:00
-61,traffic stop,"['N. Taxiarchon Ave', 'N. Agiasou St']",2014-01-23T18:30:00
-62,traffic stop,"['N. Carnero St', 'N. Pilai St']",2014-01-23T18:31:00
-63,traffic stop,"['N. Pilau St', 'N. Aveny St']",2014-01-23T18:32:21
-64,park check,['N. Spetson St'],2014-01-23T18:32:23
-65,suspici subject circumst in progress,['Ipsilantou Ave'],2014-01-23T18:32:24
-66,subject stop,"['S. Maskin St', 'S. Eleftherias St']",2014-01-23T18:34:18
-67,disturb nois,['N. Asiant St'],2014-01-23T18:35:00
-68,busi check,['N. Taxiarchon Ave'],2014-01-23T18:37:25
-69,traffic stop,"['N. Bilar St', 'N. Ketallinias St']",2014-01-23T18:38:00
-70,possibl fire report,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:40:00
-71,possibl fire report,"['N. Madeg St', 'N. Acera St']",2014-01-23T18:40:00
-72,incomplet call for polic,['nan'],2014-01-23T18:40:32
-73,misdemeanor assault in progress,"['Makedonias St', 'S. Palmant St']",2014-01-23T18:41:00
-74,fire medic need fire truck 41 and 57 dispatch to fire,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:42:10
-75,disturb nois,['N. Anntigonou St'],2014-01-23T18:42:45
-76,traffic stop,"['N. Mattadou St', 'N. Anntigonou St']",2014-01-23T18:43:04
-77,all unit broadcast build fire,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:43:21
-78,vandal report,"['N. Eira St', 'N. Sina Way']",2014-01-23T18:43:28
-79,polic need polic unit 101 and 220 dispatch to fire,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:44:00
-80,alarm secur no crime,['N. Aveny St'],2014-01-23T18:44:41
-81,traffic stop,['N. Berlau St'],2014-01-23T18:45:22
-82,incomplet call for polic,['nan'],2014-01-23T18:45:47
-83,fire medic need amubl dispatch to fire,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:47:00
-84,fire medic need fire truck 23 dispatch to fire,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:47:09
-85,traffic stop,"['N. Arbete St', 'N. Utmana St']",2014-01-23T18:47:11
-86,misdemeanor assault in progress,"['N. Els St', 'N. Polvo St']",2014-01-23T18:47:56
-87,polic unit dispatch crowd control,"['N. Achilleos St', 'N. Madeg St']",2014-01-23T18:48:02
-88,traffic stop,"['Rist Way', 'N. Desafio St']",2014-01-23T18:49:43
-89,disturb nois,['N. Thessalias St'],2014-01-23T18:50:21
-90,alarm secur no crime,['N. Valmai St'],2014-01-23T18:52:00
-91,incomplet call for polic,['nan'],2014-01-23T18:52:37
-92,traffic stop,"['N. Arbete St', 'N. Oddisseos St']",2014-01-23T18:55:01
-93,traffic stop,"['N. Arbete St', 'N. Spetson St']",2014-01-23T19:02:00
-94,disturb nois,"['N. Hacia St', 'N. Carretera St']",2014-01-23T19:03:48
-95,park check,['N. Parla St'],2014-01-23T19:05:54
-96,traffic stop,"['N. Thermopilon St', 'N. Carnero St']",2014-01-23T19:07:00
-97,alarm secur no crime,['N. Thessalias St'],2014-01-23T19:10:00
-98,misdemeanor assault in progress,['N. Asiant St'],2014-01-23T19:14:07
-99,traffic stop,['N. Polvo St'],2014-01-23T19:16:07
-100,incomplet call for polic,['nan'],2014-01-23T19:17:02
-101,vehicl accid report,['N. Souliou St'],2014-01-23T19:18:34
-102,vehicl accid no or unknown injuri,['N. Souliou St'],2014-01-23T19:19:00
-103,traffic stop,"['N. Spetson St', 'N. Barabla St']",2014-01-23T19:20:42
-104,suspici subject circumst in progress,"['N. Scarkeme St', 'N. Bilar St']",2014-01-23T19:20:48
-105,feloni hit run in progress with injuri,['Block of N. Schaber Ave'],2014-01-23T19:20:59
-106,feloni hit run in progress with injuri,['N. Schaber Ave'],2014-01-23T19:21:38
-107,all unit broadcast feloni hit run black van partial plate l829,['ALL UNITS'],2014-01-23T19:22:00
-108,fire medic dispatch pedestrian hit run,['N. Schaber Ave'],2014-01-23T19:23:00
-109,crime scene investig request,['N. Schaber Ave'],2014-01-23T19:23:44
-110,suspici occupi vehicl black van,"['Egeou Ave', 'Ipsilantou Ave']",2014-01-23T19:24:15
-111,disturb nois,"['N. Limnou St', 'Nikomidias St']",2014-01-23T19:25:00
-112,suspici occupi vehicl black van,"['N. Hacia St', 'N. Brada St']",2014-01-23T19:25:08
-113,suspici occupi vehicl black van,"['N. Antoniadou St', 'N. Estos St']",2014-01-23T19:26:55
-114,suspici occupi vehicl black van,"['Profitou Ilia St', 'Egeou Ave']",2014-01-23T19:27:00
-115,traffic stop,['Polvo St'],2014-01-23T19:30:00
-116,reckless hazarad driver in progress,"['Egeou Ave', 'Polvo St']",2014-01-23T19:35:07
-117,pursuit polic unit 253 in pursuit,"['Egeou Ave', 'Nia Ave']",2014-01-23T19:35:58
-118,pursuit continu polic unit 253 and 357 second unit join,"['Egeou Ave', 'Limnou St']",2014-01-23T19:36:00
-119,suspici occupi vehicl black van,"['S. Limnou St', 'S. Eleftherias St']",2014-01-23T19:37:00
-120,suspici occupi vehicl black van,"['N. Limnou St', 'N. Achilleos St']",2014-01-23T19:38:22
-121,pursuit continu polic unit 253 and 357,"['N. Limnou St', 'N. Alexandrias St']",2014-01-23T19:39:07
-122,incomplet call for polic,['nan'],2014-01-23T19:39:40
-123,feloni assault weapon in progress,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T19:40:00
-124,disturb nois,['N. Omirou St'],2014-01-23T19:40:22
-125,suspici occupi vehicl black van,['N. Berlau St'],2014-01-23T19:40:41
-126,suspici subject circumst in progress,['N. Alexandrias St'],2014-01-23T19:41:00
-127,traffic stop,['N. Polvo St'],2014-01-23T19:41:07
-128,alarm secur no crime,['N. Carden St'],2014-01-23T19:41:22
-129,suspici occupi vehicl black van,"['N. Oddisseos St', 'N. Antoniadou St']",2014-01-23T19:41:29
-130,subject stop,['N. Agentes St'],2014-01-23T19:41:48
-131,fire medic need offic down,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T19:41:57
-132,suspici occupi vehicl black van,['N. Lumen St'],2014-01-23T19:42:14
-133,check on hazard,['N. Artakis St'],2014-01-23T19:42:22
-134,fire medic need ambul dispatch,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T19:42:28
-135,suspici occupi vehicl black van,['N. Lumen St'],2014-01-23T19:43:11
-136,dire emerg polic need offic down send addit unit,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T19:43:37
-137,disturb nois,['N. Arkadou St'],2014-01-23T19:43:39
-138,alarm secur no crime,['Anrop St'],2014-01-23T19:44:00
-139,polic unit dispatch,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T19:44:11
-140,dire emerg swat team dispatch,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T19:44:28
-141,suspici occupi vehicl black van,"['N. Ithakis St', 'N. Dentro St']",2014-01-23T19:44:29
-142,incomplet call for polic,['nan'],2014-01-23T19:44:51
-143,misdemeanor assault in progress,"['N. Arkadou St', 'N. Sirrakou St']",2014-01-23T19:45:11
-144,traffic stop,['Pafin Rd'],2014-01-23T19:46:47
-145,incomplet call for polic,['nan'],2014-01-23T19:46:51
-146,crime scene investig request locat person incid of interest,['N. Souliou St'],2014-01-23T19:47:00
-147,alarm secur no crime,['N. Carnero St'],2014-01-23T19:48:13
-148,vehicl accid report,"['N. Pilau St', 'N. Arkadiou St']",2014-01-23T19:49:00
-149,vandal report,"['N. Oddisseos St', 'N. Asiant St']",2014-01-23T19:52:33
-150,shoplift,"['N. Limnou St', 'N. Berlau St']",2014-01-23T19:55:00
-151,vehicl accid report,"['N. Spetson St', 'N. Androutsou St']",2014-01-23T19:56:57
-152,subject stop,['Iroon Rd'],2014-01-23T19:57:32
-153,traffic stop,"[' N. Polvo St', 'Egeou Ave']",2014-01-23T20:01:00
-154,incomplet call for polic,['nan'],2014-01-23T20:05:45
-155,suspici subject circumst in progress,['N. Profitou Ilia Ave'],2014-01-23T20:06:58
-156,traffic stop,"['N. Prevezis St', 'N. Androutsou St']",2014-01-23T20:06:59
-157,crime scene investig request locat dwell of interest,['N. Maskin St'],2014-01-23T20:07:00
-158,traffic stop,"['Rist Way', 'Niovis St']",2014-01-23T20:08:01
-159,narcot activ report,"['N. Dimitriou St', 'N. Madeg St']",2014-01-23T20:10:00
-160,vehicl accid report,"['N. Polvo St', 'N. Anntigonou St']",2014-01-23T20:10:38
-161,check on hazard,"['N. Pilau St', 'N. Arkadiou St']",2014-01-23T20:10:53
-162,alarm secur no crime,['N. Wenna St'],2014-01-23T20:11:00
-163,traffic stop,['N. Barwyn St'],2014-01-23T20:15:00
-164,subject stop,"['N. Estos St', 'N. Barabla St']",2014-01-23T20:21:03
-165,misdemeanor assault in progress,['N. Agisilaou St'],2014-01-23T20:22:21
-166,incomplet call for polic,['nan'],2014-01-23T20:27:13
-167,traffic stop,"['N. Polvo St', 'N. Androutsou St']",2014-01-23T20:28:42
-168,shoplift,['Filis St'],2014-01-23T20:29:07
-169,narcot activ report,['S. Honoliau St'],2014-01-23T20:31:02
-170,alarm secur no crime,['N. Alamanas St'],2014-01-23T20:33:00
-171,prowler,"['Niovis St', 'N. Aveny St']",2014-01-23T20:34:01
-172,subject stop,['N. Arbete St'],2014-01-23T20:35:09
-173,traffic stop,"['Vissaraki St', 'Rist Way']",2014-01-23T20:40:00
-174,vandal report,"['N. Parla St', 'N. Dentro St']",2014-01-23T20:45:00
-175,alarm secur no crime,['N. Hix St'],2014-01-23T20:48:17
-176,narcot activ report,['N. Valmai St'],2014-01-23T20:50:00
-177,suspici subject circumst in progress,"['N. Pilau St', 'N. Achilleos St']",2014-01-23T20:52:00
-178,traffic stop,['Rist Way'],2014-01-23T21:00:00
-179,shoplift,['N. Estos St'],2014-01-23T21:00:04
-180,misdemeanor assault in progress,"['N. Agentes St', 'N. Parla St']",2014-01-23T21:10:00
-181,traffic stop,['N. Parla St'],2014-01-23T21:13:45
-182,crime scene investig request locat person vehicl of interest,"['N. Alexandrias St', 'N. Ithakis St']",2014-01-23T21:15:00
-183,subject stop,"['Egeou St', 'Parla St']",2014-01-23T21:17:11
-184,check on hazard,"['Exadakitiou Way', 'Rist Way']",2014-01-23T21:19:03
-185,prowler,"['N. Limnou St', 'N. Alm St']",2014-01-23T21:20:50
-186,drunk subject,['N. Finiatur St'],2014-01-23T21:21:11
-187,crime scene investig request addit unit locat dwell of interest,['N. Maskin St'],2014-01-23T21:22:00
-188,suspici subject circumst in progress,"['S. Mikonou St', 'S. Achilleos St']",2014-01-23T21:25:00
-189,traffic stop,"['N. Pilau St', 'N. Diogenous St']",2014-01-23T21:27:12
-190,misdemeanor assault in progress,"['S. Mikonou St', 'S. Achilleos St']",2014-01-23T21:30:10
+type,message,location,timestamp
+ccdata,KEEP THE PEACE-CROWD CONTROL/ABILA CITY PARK,Egeou St / Parla St,2014-01-23 17:00:00
+ccdata,TRAFFIC STOP,N. Els St / N. Polvo St,2014-01-23 17:02:10
+ccdata,PARK CHECK,2099 Sannan Pky,2014-01-23 17:05:13
+ccdata,DISTURBANCE-NOISE,3654 N. Barwyn St,2014-01-23 17:11:02
+ccdata,ALARM-SECURE NO CRIME,3815 N. Blant St,2014-01-23 17:11:53
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,N. Dentro St / N. Omirou St,2014-01-23 17:11:59
+ccdata,SUBJECT STOP,3815 N. Barwyn St,2014-01-23 17:14:47
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,436 Zefirou Ave,2014-01-23 17:15:01
+ccdata,TRAFFIC STOP,3703 N. Pilau St,2014-01-23 17:15:13
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 17:16:00
+ccdata,BUSINESS CHECK,898 N. Utanfor St,2014-01-23 17:17:25
+ccdata,VEHICLE ACCIDENT-REPORT,N. Spetson St / N. Arkadou St,2014-01-23 17:18:00
+ccdata,CHECK ON HAZARD,4304 N. Arbete St,2014-01-23 17:18:33
+ccdata,DISTURBANCE-NOISE,3177 N. Gounaraki St,2014-01-23 17:19:00
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 17:21:00
+ccdata,VEHICLE ACCIDENT-REPORT,2582 N. Parla St,2014-01-23 17:22:00
+ccdata,TRAFFIC STOP,4133 N. Androutsou St,2014-01-23 17:22:47
+ccdata,ALARM-SECURE NO CRIME,4357 N. Blant St,2014-01-23 17:22:51
+ccdata,SUBJECT STOP,4252 N. Bairn St,2014-01-23 17:23:22
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,N. Gounaraki St / N. Bairn Stt,2014-01-23 17:25:45
+ccdata,TRAFFIC STOP,Rist Way / Niovis St,2014-01-23 17:25:51
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 17:26:42
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,2673 N. Androutsou St,2014-01-23 17:26:58
+ccdata,SUBJECT STOP,3351 N. Tzavella St,2014-01-23 17:27:00
+ccdata,DISTURBANCE-NOISE,3198 N. Gounaraki St,2014-01-23 17:27:45
+ccdata,CROWD CONTROL-STREET CLOSURE,N. Parla St from Egeou Ave North to N. Alm St,2014-01-23 17:28:02
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,N. Pilau St / N. Carnero St,2014-01-23 17:29:00
+ccdata,ALARM-SECURE NO CRIME,3234 N. Avionos St,2014-01-23 17:32:00
+ccdata,VEHICLE ACCIDENT-REPORT,N. Taxiarchon St / N. Arkadou St,2014-01-23 17:34:00
+ccdata,TRAFFIC STOP,N. Artakis St / N. Evzonon St,2014-01-23 17:35:01
+ccdata,PARK CHECK,2999 N. Arkadiou St,2014-01-23 17:36:11
+ccdata,BUSINESS CHECK,S. Achilleos St / S. Utanfor St,2014-01-23 17:38:02
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 17:38:14
+ccdata,TRAFFIC STOP,2014 Sannan Pky,2014-01-23 17:39:00
+ccdata,SUBJECT STOP,N. Berlau St / N. Taxiarchon Ave,2014-01-23 17:40:56
+ccdata,DISTURBANCE-NOISE,4777 N. Arkadou St,2014-01-23 17:41:00
+ccdata,VEHICLE ACCIDENT-REPORT,Vissaraki St / Rist Way,2014-01-23 17:42:00
+ccdata,TRAFFIC STOP,N. Alexandrias St / N. Evzonon St,2014-01-23 17:42:31
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,2211 N. Artakis St,2014-01-23 17:43:09
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,1439 N. Utanfor St,2014-01-23 17:44:00
+ccdata,ALARM-SECURE NO CRIME,2411 N. Averof St,2014-01-23 17:46:11
+ccdata,VEHICLE ACCIDENT-REPORT,N. Pilau St / N. Barwyn St,2014-01-23 17:49:00
+ccdata,TRAFFIC STOP,N. Taxiarchon Ave / N. Alm St,2014-01-23 17:50:00
+ccdata,SUBJECT STOP,N. Carnero St / N. Omirou St,2014-01-23 17:51:23
+ccdata,BUSINESS CHECK,N. Agisilaou St / N. Lumen St,2014-01-23 17:52:32
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 17:53:59
+ccdata,ALARM-SECURE NO CRIME,3247 N. Mikonou St,2014-01-23 18:04:01
+ccdata,DISTURBANCE-NOISE,101 Vatopediou Rd,2014-01-23 18:04:47
+ccdata,SUBJECT STOP,1919 N. Pilau St,2014-01-23 18:05:15
+ccdata,TRAFFIC STOP,2978 N. Taxiarchon Ave,2014-01-23 18:06:15
+ccdata,PARK CHECK,3301 N. Taxiarchon Ave,2014-01-23 18:07:52
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,5367 N. Averof St,2014-01-23 18:09:22
+ccdata,VANDALISM-REPORT,6055 N. Desafio St,2014-01-23 18:10:02
+ccdata,TRAFFIC STOP,Rist Way / Exadakitiou Way,2014-01-23 18:13:49
+ccdata,BUSINESS CHECK,2197 Rist Way,2014-01-23 18:14:13
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 18:15:33
+ccdata,SUBJECT STOP,N. Pilau St / N. Aveny St,2014-01-23 18:16:34
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,781 S. Maskin St,2014-01-23 18:17:55
+ccdata,CHECK ON HAZARD,3776 N. Scarkeme St,2014-01-23 18:20:00
+ccdata,TRAFFIC STOP,5607 N. Bilar St,2014-01-23 18:21:44
+ccdata,ALARM-SECURE NO CRIME,4678 N. Delfon St,2014-01-23 18:25:00
+ccdata,TRAFFIC STOP,N. Taxiarchon Ave / N. Agiasou St,2014-01-23 18:30:00
+ccdata,TRAFFIC STOP,N. Carnero St / N. Pilai St,2014-01-23 18:31:00
+ccdata,TRAFFIC STOP,N. Pilau St / N. Aveny St,2014-01-23 18:32:21
+ccdata,PARK CHECK,3801 N. Spetson St,2014-01-23 18:32:23
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,1218 Ipsilantou Ave,2014-01-23 18:32:24
+ccdata,SUBJECT STOP,S. Maskin St / S. Eleftherias St,2014-01-23 18:34:18
+ccdata,DISTURBANCE-NOISE,3114 N. Asiant St,2014-01-23 18:35:00
+ccdata,BUSINESS CHECK,3799 N. Taxiarchon Ave,2014-01-23 18:37:25
+ccdata,TRAFFIC STOP,N. Bilar St / N. Ketallinias St,2014-01-23 18:38:00
+ccdata,POSSIBLE FIRE-REPORT,N. Achilleos St / N. Madeg St,2014-01-23 18:40:00
+ccdata,POSSIBLE FIRE-REPORT,N. Madeg St / N. Acera St,2014-01-23 18:40:00
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 18:40:32
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,Makedonias St / S. Palmant St,2014-01-23 18:41:00
+ccdata,FIRE/MEDICS NEEDED-FIRE TRUCKS #41 AND #57 DISPATCHED TO FIRE,N. Achilleos St / N. Madeg St,2014-01-23 18:42:10
+ccdata,DISTURBANCE-NOISE,3455 N. Anntigonou St,2014-01-23 18:42:45
+ccdata,TRAFFIC STOP,N. Mattadou St / N. Anntigonou St,2014-01-23 18:43:04
+ccdata,ALL UNITS BROADCAST-BUILDING FIRE,N. Achilleos St / N. Madeg St,2014-01-23 18:43:21
+ccdata,VANDALISM-REPORT,N. Eira St / N. Sina Way,2014-01-23 18:43:28
+ccdata,POLICE NEEDED-POLICE UNITS #101 AND #220 DISPATCHED TO FIRE,N. Achilleos St / N. Madeg St,2014-01-23 18:44:00
+ccdata,ALARM-SECURE NO CRIME,2112 N. Aveny St,2014-01-23 18:44:41
+ccdata,TRAFFIC STOP,5066 N. Berlau St,2014-01-23 18:45:22
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 18:45:47
+ccdata,FIRE/MEDICS NEEDED-AMUBLANCE DISPATCHED TO FIRE,N. Achilleos St / N. Madeg St,2014-01-23 18:47:00
+ccdata,FIRE/MEDICS NEEDED-FIRE TRUCK #23 DISPATCHED TO FIRE,N. Achilleos St / N. Madeg St,2014-01-23 18:47:09
+ccdata,TRAFFIC STOP,N. Arbete St / N. Utmana St,2014-01-23 18:47:11
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,N. Els St / N. Polvo St,2014-01-23 18:47:56
+ccdata,POLICE UNIT DISPATCHED-CROWD CONTROL,N. Achilleos St / N. Madeg St,2014-01-23 18:48:02
+ccdata,TRAFFIC STOP,Rist Way / N. Desafio St,2014-01-23 18:49:43
+ccdata,DISTURBANCE-NOISE,2491 N. Thessalias St,2014-01-23 18:50:21
+ccdata,ALARM-SECURE NO CRIME,3671 N. Valmai St,2014-01-23 18:52:00
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 18:52:37
+ccdata,TRAFFIC STOP,N. Arbete St / N. Oddisseos St,2014-01-23 18:55:01
+ccdata,TRAFFIC STOP,N. Arbete St / N. Spetson St,2014-01-23 19:02:00
+ccdata,DISTURBANCE-NOISE,N. Hacia St / N. Carretera St,2014-01-23 19:03:48
+ccdata,PARK CHECK,4999 N. Parla St,2014-01-23 19:05:54
+ccdata,TRAFFIC STOP,N. Thermopilon St / N. Carnero St,2014-01-23 19:07:00
+ccdata,ALARM-SECURE NO CRIME,2727 N. Thessalias St,2014-01-23 19:10:00
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,5097 N. Asiant St,2014-01-23 19:14:07
+ccdata,TRAFFIC STOP,3398 N. Polvo St,2014-01-23 19:16:07
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 19:17:02
+ccdata,VEHICLE ACCIDENT - REPORT,1422 N. Souliou St,2014-01-23 19:18:34
+ccdata,VEHICLE ACCIDENT - NO OR UNKNOWN INJURIES,1422 N. Souliou St,2014-01-23 19:19:00
+ccdata,TRAFFIC STOP,N. Spetson St / N. Barabla St,2014-01-23 19:20:42
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,N. Scarkeme St / N. Bilar St,2014-01-23 19:20:48
+ccdata,FELONY HIT & RUN - IN PROGRESS-WITH INJURY,500 Block of N. Schaber Ave,2014-01-23 19:20:59
+ccdata,FELONY HIT & RUN-IN PROGRESS-WITH INJURY,547 N. Schaber Ave,2014-01-23 19:21:38
+ccdata,ALL UNITS BROADCAST-FELONY HIT & RUN-BLACK VAN/PARTIAL PLATE #L829,ALL UNITS,2014-01-23 19:22:00
+ccdata,FIRE/MEDICS DISPATCHED-PEDESTRIAN HIT & RUN,547 N. Schaber Ave,2014-01-23 19:23:00
+ccdata,CRIME SCENE INVESTIGATION-REQUEST,547 N. Schaber Ave,2014-01-23 19:23:44
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,Egeou Ave / Ipsilantou Ave,2014-01-23 19:24:15
+ccdata,DISTURBANCE-NOISE,N. Limnou St / Nikomidias St,2014-01-23 19:25:00
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,N. Hacia St / N. Brada St,2014-01-23 19:25:08
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,N. Antoniadou St / N. Estos St,2014-01-23 19:26:55
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,Profitou Ilia St / Egeou Ave,2014-01-23 19:27:00
+ccdata,TRAFFIC STOP,3701 Polvo St,2014-01-23 19:30:00
+ccdata,RECKLESS/HAZARADOUS DRIVER-IN PROGRESS,Egeou Ave / Polvo St,2014-01-23 19:35:07
+ccdata,PURSUIT-POLICE UNIT #253 IN PURSUIT,Egeou Ave / Nia Ave,2014-01-23 19:35:58
+ccdata,PURSUIT CONTINUES-POLICE UNITS #253 AND #357/SECOND UNIT JOINS,Egeou Ave / Limnou St,2014-01-23 19:36:00
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,S. Limnou St / S. Eleftherias St,2014-01-23 19:37:00
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,N. Limnou St / N. Achilleos St,2014-01-23 19:38:22
+ccdata,PURSUIT-CONTINUES-POLICE UNITS #253 AND #357,N. Limnou St / N. Alexandrias St,2014-01-23 19:39:07
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 19:39:40
+ccdata,FELONY ASSAULT/WEAPON-IN PROGRESS,N. Alexandrias St / N. Ithakis St,2014-01-23 19:40:00
+ccdata,DISTURBANCE-NOISE,1615 N. Omirou St,2014-01-23 19:40:22
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,3611 N. Berlau St,2014-01-23 19:40:41
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,3107 N. Alexandrias St,2014-01-23 19:41:00
+ccdata,TRAFFIC STOP,2708 N. Polvo St,2014-01-23 19:41:07
+ccdata,ALARM-SECURE NO CRIME,5101 N. Carden St,2014-01-23 19:41:22
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,N. Oddisseos St / N. Antoniadou St,2014-01-23 19:41:29
+ccdata,SUBJECT STOP,3277 N. Agentes St,2014-01-23 19:41:48
+ccdata,FIRE/MEDICS NEEDED-OFFICER DOWN,N. Alexandrias St / N. Ithakis St,2014-01-23 19:41:57
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,1492 N. Lumen St,2014-01-23 19:42:14
+ccdata,CHECK ON HAZARD,6007 N. Artakis St,2014-01-23 19:42:22
+ccdata,FIRE/MEDICS NEEDED-AMBULANCE DISPATCHED,N. Alexandrias St / N. Ithakis St,2014-01-23 19:42:28
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,1066 N. Lumen St,2014-01-23 19:43:11
+ccdata,DIRE EMERGENCY/POLICE NEEDED-OFFICER DOWN-SEND ADDITIONAL UNITS,N. Alexandrias St / N. Ithakis St,2014-01-23 19:43:37
+ccdata,DISTURBANCE-NOISE,1979 N. Arkadou St,2014-01-23 19:43:39
+ccdata,ALARM-SECURE NO CRIME,5501 Anrop St,2014-01-23 19:44:00
+ccdata,POLICE UNITS DISPATCHED,N. Alexandrias St / N. Ithakis St,2014-01-23 19:44:11
+ccdata,DIRE EMERGENCY/SWAT TEAM DISPATCHED,N. Alexandrias St / N. Ithakis St,2014-01-23 19:44:28
+ccdata,SUSPICIOUS OCCUPIED VEHICLE-BLACK VAN,N. Ithakis St / N. Dentro St,2014-01-23 19:44:29
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 19:44:51
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,N. Arkadou St / N. Sirrakou St,2014-01-23 19:45:11
+ccdata,TRAFFIC STOP,64 Pafin Rd,2014-01-23 19:46:47
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 19:46:51
+ccdata,CRIME SCENE INVESTIGATION REQUEST-LOCATION/PERSON/INCIDENT OF INTEREST,1422 N. Souliou St,2014-01-23 19:47:00
+ccdata,ALARM-SECURE NO CRIME,6464 N. Carnero St,2014-01-23 19:48:13
+ccdata,VEHICLE ACCIDENT-REPORT,N. Pilau St / N. Arkadiou St,2014-01-23 19:49:00
+ccdata,VANDALISM-REPORT,N. Oddisseos St / N. Asiant St,2014-01-23 19:52:33
+ccdata,SHOPLIFTING,N. Limnou St / N. Berlau St,2014-01-23 19:55:00
+ccdata,VEHICLE ACCIDENT-REPORT,N. Spetson St / N. Androutsou St,2014-01-23 19:56:57
+ccdata,SUBJECT STOP,84 Iroon Rd,2014-01-23 19:57:32
+ccdata,TRAFFIC STOP, N. Polvo St / Egeou Ave,2014-01-23 20:01:00
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 20:05:45
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,2439 N. Profitou Ilia Ave,2014-01-23 20:06:58
+ccdata,TRAFFIC STOP,N. Prevezis St / N. Androutsou St,2014-01-23 20:06:59
+ccdata,CRIME SCENE INVESTIGATION REQUEST-LOCATION/DWELLING OF INTEREST,1122 N. Maskin St,2014-01-23 20:07:00
+ccdata,TRAFFIC STOP,Rist Way / Niovis St,2014-01-23 20:08:01
+ccdata,NARCOTIC ACTIVITY-REPORT,N. Dimitriou St / N. Madeg St,2014-01-23 20:10:00
+ccdata,VEHICLE ACCIDENT-REPORT,N. Polvo St / N. Anntigonou St,2014-01-23 20:10:38
+ccdata,CHECK ON HAZARD,N. Pilau St / N. Arkadiou St,2014-01-23 20:10:53
+ccdata,ALARM-SECURE NO CRIME,2203 N. Wenna St,2014-01-23 20:11:00
+ccdata,TRAFFIC STOP,4607 N. Barwyn St,2014-01-23 20:15:00
+ccdata,SUBJECT STOP,N. Estos St / N. Barabla St,2014-01-23 20:21:03
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,3184 N. Agisilaou St,2014-01-23 20:22:21
+ccdata,INCOMPLETE CALL FOR POLICE,,2014-01-23 20:27:13
+ccdata,TRAFFIC STOP,N. Polvo St / N. Androutsou St,2014-01-23 20:28:42
+ccdata,SHOPLIFTING,2297 Filis St,2014-01-23 20:29:07
+ccdata,NARCOTIC ACTIVITY-REPORT,644 S. Honoliau St,2014-01-23 20:31:02
+ccdata,ALARM-SECURE NO CRIME,3103 N. Alamanas St,2014-01-23 20:33:00
+ccdata,PROWLER,Niovis St / N. Aveny St,2014-01-23 20:34:01
+ccdata,SUBJECT STOP,4001 N. Arbete St,2014-01-23 20:35:09
+ccdata,TRAFFIC STOP,Vissaraki St / Rist Way,2014-01-23 20:40:00
+ccdata,VANDALISM-REPORT,N. Parla St / N. Dentro St,2014-01-23 20:45:00
+ccdata,ALARM-SECURE NO CRIME,5401 N. Hix St,2014-01-23 20:48:17
+ccdata,NARCOTIC ACTIVITY-REPORT,4754 N. Valmai St,2014-01-23 20:50:00
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,N. Pilau St / N. Achilleos St,2014-01-23 20:52:00
+ccdata,TRAFFIC STOP,3550 Rist Way,2014-01-23 21:00:00
+ccdata,SHOPLIFTING,2781 N. Estos St,2014-01-23 21:00:04
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,N. Agentes St / N. Parla St,2014-01-23 21:10:00
+ccdata,TRAFFIC STOP,3297 N. Parla St,2014-01-23 21:13:45
+ccdata,CRIME SCENE INVESTIGATION-REQUEST-LOCATION/PERSON/VEHICLE OF INTEREST,N. Alexandrias St / N. Ithakis St,2014-01-23 21:15:00
+ccdata,SUBJECT STOP,Egeou St / Parla St,2014-01-23 21:17:11
+ccdata,CHECK ON HAZARD,Exadakitiou Way / Rist Way,2014-01-23 21:19:03
+ccdata,PROWLER,N. Limnou St / N. Alm St,2014-01-23 21:20:50
+ccdata,DRUNK SUBJECT,2299 N. Finiatur St,2014-01-23 21:21:11
+ccdata,CRIME SCENE INVESTIGATION-REQUEST-ADDITIONAL UNITS-LOCATION/DWELLING OF INTEREST,1122 N. Maskin St,2014-01-23 21:22:00
+ccdata,SUSPICIOUS SUBJECT/CIRCUMSTANCES-IN PROGRESS,S. Mikonou St / S. Achilleos St,2014-01-23 21:25:00
+ccdata,TRAFFIC STOP,N. Pilau St / N. Diogenous St,2014-01-23 21:27:12
+ccdata,MISDEMEANOR ASSAULT-IN PROGRESS,S. Mikonou St / S. Achilleos St,2014-01-23 21:30:10
