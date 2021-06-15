@@ -16,4 +16,4 @@ This application mainly relies on `altair` and `jupyterlab` to work. Such module
 
 ## Presentation video (only in Brazilian Portuguese)
 
-TBD
+[![vast-2021-tweets notebook presentation](https://img.youtube.com/vi/XZ2QAvULgdQ/maxresdefault.jpg)](https://youtu.be/XZ2QAvULgdQ)
